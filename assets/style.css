@@ -1,0 +1,11 @@
+.jumbotron{
+    background-image: url("https://www.petconnectrescue.org/wp-content/uploads/2013/05/three-dogs-banner-e1500758981792.jpg");
+    color: white;
+    text-align: center;
+    height: 300px;
+}
+
+.doge{
+    height: 100%;
+    text-align: center;
+}
